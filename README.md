@@ -1,7 +1,7 @@
 # Snake_TechLabs
 
 ## Description
-A classical snake game developed for TechLabs Aachen Digital Shaper program.
+A classical snake game developed for [TechLabs Aachen Digital Shaper program](https://www.techlabs.org/location/aachen).
 
 For the purposes of the TechLabs application, I considered revisiting the old school classics and quickly developed a classical snake game prototype in Scratch.
 
