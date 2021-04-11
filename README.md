@@ -10,5 +10,5 @@ For the purposes of the TechLabs application, I considered revisiting the old sc
 2. Use arrow keys to navigate the snake towards the taco
 3. Eat as much as tacos as you want and play with your friends!
 
-### Scratch link:
+## Scratch link:
 https://scratch.mit.edu/projects/511887060/
