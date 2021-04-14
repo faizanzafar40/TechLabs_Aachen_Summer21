@@ -1,1 +1,2 @@
-# TechLabs_Aachen_Summer21
+# TechLabs Aachen Digital Shaper Program
+[TechLabs Aachen Digital Shaper Program](https://www.techlabs.org/program/local).
